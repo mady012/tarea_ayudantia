@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<title>Tarea Ayudantia</title>
+		<link rel="stylesheet" type="text/css" href="estilo.css">
+		<style> a:link {text-decoration:none;} a:visited {text-decoration:none;} </style>
+
+	</head>
+
+	<body>
+
+		<h1> Tarea de Ayudantia </h1>
+		<h1>Ingeniería de Software </h1>
+		<p>Nombre de los integrantes:<a href="https://github.com/mady012"> Madeleine Alejandra Opazo 		
+
+		Cabargas</a>  mady012@gmail.com, <a href="https://github.com/CECR7">Camilo Candia Rubinstein</a>  	
+
+	RS.CECR@GMAIL.COM</p>
+		
+		<p>Para ir al repositorio donde se encuentra la tarea, haz click<a 		
+
+href="https://github.com/mady012/tarea_ayudantia"> aqui</a></p> 
+
+	</body>
+
+</html>
